@@ -7,4 +7,4 @@ Gender Classifier using different classification ML from Scikit-learn
 * Scipy
 
 ## Usage
-run the '''gender_clf.py''' in pycharm
+run the ```gender_clf.py``` in pycharm
