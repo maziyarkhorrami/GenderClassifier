@@ -1,5 +1,8 @@
 # GenderClassifier
 Gender Classifier using different classification ML from Scikit-learn
+* Decision Tree
+* MLP
+* KNeighbours
 
 ## Dependencies
 * Scikit-learn
