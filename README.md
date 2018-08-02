@@ -4,7 +4,7 @@ Gender Classifier using different classification ML from Scikit-learn
 * MLP
 * KNeighbours
 
-## Dependencies
+## Dependencies 
 * Scikit-learn
 * Numpy
 * Scipy
