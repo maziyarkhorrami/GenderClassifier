@@ -11,7 +11,7 @@ X = [[180, 78, 43], [170, 70, 41], [176, 80, 42], [160, 60, 42], [182, 85, 44], 
 
 y = ['male', 'female', 'male', 'male', 'male', 'female', 'male', 'female', 'female', 'female', 'male']
 
-# pre processing the data, splitting the data into the GenderClassifier and Train parts
+# pre processing the data, splitting the data into the Test and Train parts
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2)
 
 
